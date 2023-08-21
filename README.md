@@ -1,6 +1,6 @@
 # TL Responsibilities
 
-General responsibilities of TLs in the Department of Computer Science at Allegheny College.
+General responsibilities of TLs in the Department of Computer and Information Science at Allegheny College.
 
 - Attend all assigned sessions.
 - Hold two hours of office hours each week.
