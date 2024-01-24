@@ -36,6 +36,5 @@
 ### Other:
 
 * Remind them that you are a student first and a TL second.
-* Point them towards other resources and TLs when needed
-* Send them a link to the CS TL page on slack so they can view office hours.
-* Don't be afraid to admit that you don't know and to point them to someone who does know (another TL or even the professor).
+* Point them towards other resources and [TL office hours](https://www.cis.allegheny.edu/teaching/technicalleaders/) when needed.
+* Don't be afraid to admit that you don't know and to point them to someone who does know (another TL or a professor).
