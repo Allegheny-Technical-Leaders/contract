@@ -1,4 +1,4 @@
-# CIS Technical Leaders 
+# CIS Technical Leaders Employment Contract
 
 A successful Technical Leader (TL) in the Department of Computer and Information Science at Allegheny College strives towards excellence in five areas of TL responsibilities.
 
