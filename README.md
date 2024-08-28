@@ -13,10 +13,11 @@ A successful Technical Leader (TL) in the Department of Computer and Information
    - Engage with students: walk around, check in with students, ask students' questions (you are not allowed to sit and do your own work).
    - Help students learn how to problem solve by breaking the problem into parts, without providing the solution.
    - Encourage students to explain their code.
-4. __Monitoring and Follow-up__
+4. __Communication__
+   - Use Discord for communication regularly (check and respond), and post office hour notifications on Discord if/when hosting office hours.
    - If you notice a student who is far ahead or falling behind the rest of the class, bring it up to the professor.
    - If hosting office hours, complete [TL After Visit Summary](https://forms.gle/ffbXzvQ439BcWrSHA) for each student you helped. 
-5. __Professional Responsibilities__
+6. __Professional Responsibilities__
    - Keep the sessions non-distractive. Give your full attention.
    - Be patient when helping students.
    - Encourage and motivate students, both struggling and excelling, by showing your relentless enthusiasm for computer science.
